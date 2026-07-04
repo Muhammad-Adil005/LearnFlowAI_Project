@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "56219149007",
+    "project_id": "learnflow-ai-1d3f0",
+    "storage_bucket": "learnflow-ai-1d3f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56219149007:android:4f318d7c0afbd965240dba",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWIhFcy4oirvN2HeZrSs4T7lm2SZoeDY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
